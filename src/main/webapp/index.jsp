@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="yellow">
+<body bgcolor="pink">
 <center>
 <h1>Jenkins Docker Swarm Integration</h1>
 </center>
